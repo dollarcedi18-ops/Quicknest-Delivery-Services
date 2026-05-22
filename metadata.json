@@ -1,0 +1,6 @@
+{
+  "name": "BiteSwift Local",
+  "description": "Brilliant and beautiful local area food delivery app connecting local restaurants, cuisines, meal types and delivery companies with real-time tracking, Momo and Paystack payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
